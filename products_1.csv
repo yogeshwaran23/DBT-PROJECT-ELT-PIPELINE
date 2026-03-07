@@ -1,0 +1,201 @@
+product_id,product_name,category,price
+101,Wireless Headphones,Electronics,79.99
+102,Running Shoes,Footwear,59.99
+103,Yoga Mat,Fitness,29.99
+104,Coffee Maker,Kitchen,49.99
+105,Backpack,Accessories,39.99
+106,Smartwatch,Electronics,199.99
+107,Protein Powder,Health,34.99
+108,Desk Lamp,Home Office,24.99
+109,Bluetooth Speaker,Electronics,89.99
+110,Water Bottle,Fitness,19.99
+111,Sunglasses,Accessories,44.99
+112,Laptop Stand,Home Office,35.99
+113,Resistance Bands,Fitness,14.99
+114,Air Purifier,Home,129.99
+115,Cookbook,Books,22.99
+116,Gaming Mouse,Electronics,49.99
+117,Foam Roller,Fitness,24.99
+118,Electric Kettle,Kitchen,39.99
+119,Hiking Boots,Footwear,89.99
+120,Tote Bag,Accessories,29.99
+121,Noise Cancelling Earbuds,Electronics,149.99
+122,Dumbbell Set,Fitness,69.99
+123,Blender,Kitchen,59.99
+124,Office Chair Cushion,Home Office,44.99
+125,Thriller Novel,Books,14.99
+126,USB-C Hub,Electronics,34.99
+127,Jump Rope,Fitness,9.99
+128,Toaster Oven,Kitchen,79.99
+129,Chelsea Boots,Footwear,109.99
+130,Wallet,Accessories,24.99
+131,Smart Bulb Set,Electronics,54.99
+132,Ab Wheel,Fitness,19.99
+133,Rice Cooker,Kitchen,44.99
+134,Monitor Riser,Home Office,29.99
+135,Science Fiction Novel,Books,12.99
+136,Wireless Charger,Electronics,29.99
+137,Kettlebell 10kg,Fitness,34.99
+138,Non-Stick Pan,Kitchen,54.99
+139,Slip-On Sneakers,Footwear,49.99
+140,Belt,Accessories,19.99
+141,Action Camera,Electronics,249.99
+142,Pull-Up Bar,Fitness,39.99
+143,Instant Pot,Kitchen,99.99
+144,Standing Desk Mat,Home Office,54.99
+145,Self-Help Book,Books,17.99
+146,Tablet Stylus,Electronics,24.99
+147,Pilates Ball,Fitness,15.99
+148,Cast Iron Skillet,Kitchen,34.99
+149,Sandals,Footwear,39.99
+150,Crossbody Bag,Accessories,54.99
+151,Smart Thermostat,Electronics,179.99
+152,Battle Rope,Fitness,79.99
+153,Espresso Machine,Kitchen,149.99
+154,Ergonomic Keyboard,Home Office,89.99
+155,Graphic Novel,Books,19.99
+156,Portable Charger,Electronics,39.99
+157,Medicine Ball 5kg,Fitness,29.99
+158,Knife Block Set,Kitchen,69.99
+159,Trail Running Shoes,Footwear,119.99
+160,Phone Case,Accessories,14.99
+161,Robot Vacuum,Electronics,299.99
+162,Suspension Trainer,Fitness,59.99
+163,Slow Cooker,Kitchen,44.99
+164,Cable Management Kit,Home Office,19.99
+165,Biography,Books,21.99
+166,Smart Scale,Electronics,59.99
+167,Spin Bike,Fitness,399.99
+168,Food Processor,Kitchen,89.99
+169,Basketball Shoes,Footwear,129.99
+170,Duffle Bag,Accessories,64.99
+171,Dash Cam,Electronics,79.99
+172,Gymnastics Mat,Fitness,49.99
+173,Waffle Maker,Kitchen,29.99
+174,Webcam HD,Home Office,69.99
+175,Travel Guide,Books,16.99
+176,E-Reader,Electronics,139.99
+177,Agility Ladder,Fitness,22.99
+178,Mandoline Slicer,Kitchen,24.99
+179,Dress Shoes,Footwear,99.99
+180,Keychain,Accessories,9.99
+181,Smart Doorbell,Electronics,159.99
+182,Rowing Machine,Fitness,499.99
+183,Air Fryer,Kitchen,79.99
+184,Blue-Light Glasses,Home Office,34.99
+185,History Book,Books,24.99
+186,Digital Photo Frame,Electronics,89.99
+187,Punching Bag,Fitness,119.99
+188,Bread Maker,Kitchen,59.99
+189,Casual Sneakers,Footwear,69.99
+190,Luggage Tag,Accessories,12.99
+191,Security Camera,Electronics,109.99
+192,Treadmill,Fitness,799.99
+193,Panini Press,Kitchen,49.99
+194,Document Scanner,Home Office,129.99
+195,Childrens Book,Books,11.99
+196,Smartwatch Band,Electronics,19.99
+197,Yoga Block,Fitness,12.99
+198,Immersion Blender,Kitchen,34.99
+199,Loafers,Footwear,79.99
+200,Scarf,Accessories,24.99
+201,Portable Speaker Mini,Electronics,44.99
+202,Balance Board,Fitness,44.99
+203,Salad Spinner,Kitchen,19.99
+204,Desk Organizer,Home Office,29.99
+205,Poetry Collection,Books,14.99
+206,VR Headset,Electronics,349.99
+207,Elliptical Trainer,Fitness,599.99
+208,Ice Cream Maker,Kitchen,64.99
+209,Oxford Shoes,Footwear,114.99
+210,Hat,Accessories,17.99
+211,Smart Plug,Electronics,24.99
+212,Ankle Weights,Fitness,27.99
+213,Vegetable Steamer,Kitchen,22.99
+214,Footrest,Home Office,39.99
+215,Classic Novel,Books,13.99
+216,Gaming Keyboard,Electronics,99.99
+217,Gym Bag,Fitness,49.99
+218,Garlic Press,Kitchen,11.99
+219,Work Boots,Footwear,149.99
+220,Umbrella,Accessories,19.99
+221,Smart TV Stick,Electronics,54.99
+222,Massage Gun,Fitness,149.99
+223,Silicone Baking Mat,Kitchen,14.99
+224,Desk Pad,Home Office,24.99
+225,Philosophy Book,Books,18.99
+226,Wireless Mouse,Electronics,29.99
+227,Foam Yoga Block,Fitness,9.99
+228,Avocado Slicer,Kitchen,8.99
+229,Platform Sneakers,Footwear,89.99
+230,Gloves,Accessories,14.99
+231,LED Strip Lights,Electronics,19.99
+232,Pull-Down Bar Attachment,Fitness,24.99
+233,Cutting Board,Kitchen,27.99
+234,Pen Holder,Home Office,12.99
+235,Short Story Collection,Books,13.99
+236,Fitness Tracker,Electronics,89.99
+237,Stability Ball,Fitness,32.99
+238,Herb Keeper,Kitchen,16.99
+239,Sandals Flat,Footwear,44.99
+240,Beanie,Accessories,12.99
+241,Mini Projector,Electronics,169.99
+242,Step Platform,Fitness,59.99
+243,Berry Colander,Kitchen,9.99
+244,Laptop Sleeve,Home Office,22.99
+245,Mystery Novel,Books,15.99
+246,Mechanical Keyboard,Electronics,129.99
+247,Hip Resistance Bands,Fitness,17.99
+248,Airtight Food Containers,Kitchen,29.99
+249,Rain Boots,Footwear,59.99
+250,Ankle Bracelet,Accessories,8.99
+251,Smart Alarm Clock,Electronics,44.99
+252,Battle Jump Rope,Fitness,19.99
+253,Egg Cooker,Kitchen,21.99
+254,Sticky Note Set,Home Office,7.99
+255,Romance Novel,Books,12.99
+256,Touchscreen Gloves,Electronics,14.99
+257,Grip Strengthener,Fitness,11.99
+258,Quesadilla Maker,Kitchen,24.99
+259,Platform Boots,Footwear,139.99
+260,Sunhat,Accessories,16.99
+261,Ring Light,Electronics,49.99
+262,Dip Station,Fitness,89.99
+263,Smoothie Cups Set,Kitchen,18.99
+264,Whiteboard,Home Office,54.99
+265,Almanac,Books,19.99
+266,USB Microphone,Electronics,79.99
+267,Core Sliders,Fitness,14.99
+268,Pickle Jar Opener,Kitchen,7.99
+269,Snow Boots,Footwear,104.99
+270,Leather Gloves,Accessories,34.99
+271,Bluetooth Earpiece,Electronics,34.99
+272,Indoor Cycling Shoes,Footwear,79.99
+273,Spice Rack,Kitchen,32.99
+274,Lap Desk,Home Office,47.99
+275,Encyclopedia,Books,39.99
+276,Polaroid Camera,Electronics,99.99
+277,Dip Belt,Fitness,29.99
+278,Herb Grinder,Kitchen,14.99
+279,Flip Flops,Footwear,12.99
+280,Necklace,Accessories,29.99
+281,Karaoke Microphone,Electronics,44.99
+282,Power Tower,Fitness,199.99
+283,Dutch Oven,Kitchen,79.99
+284,Ergonomic Mouse Pad,Home Office,19.99
+285,Art History Book,Books,34.99
+286,Smart Nightlight,Electronics,19.99
+287,Wobble Cushion,Fitness,22.99
+288,Pasta Maker,Kitchen,89.99
+289,Rain Jacket,Accessories,64.99
+290,Heel Wedge,Footwear,49.99
+291,Mini Fan USB,Electronics,14.99
+292,Climbing Rope,Fitness,54.99
+293,Muffin Tin,Kitchen,16.99
+294,Bookends,Home Office,18.99
+295,Manga Volume,Books,9.99
+296,Wristwatch Digital,Electronics,49.99
+297,Exercise Dice,Fitness,8.99
+298,Sushi Kit,Kitchen,24.99
+299,Hiking Sandals,Footwear,69.99
+300,Bracelet Set,Accessories,19.99
