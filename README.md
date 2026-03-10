@@ -48,7 +48,7 @@ We use `staging.yml` to define and run tests automatically. This ensures our pip
 
 
 ---
-** The business logic layer **
+## The business logic layer 
 
 1. Order Revenue Calculation
 2. Customer Total Orders
