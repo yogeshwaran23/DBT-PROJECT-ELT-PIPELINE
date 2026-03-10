@@ -42,6 +42,6 @@ We use `staging.yml` to define and run tests automatically. This ensures our pip
 * `not_null`: Ensures critical columns are never empty.
 
 
-
+** Macro , models and test( yml file ) executed successfully**
 <img width="1904" height="821" alt="image" src="https://github.com/user-attachments/assets/f1060cd6-e783-48f2-a4ba-ee5c194181ca" />
 
