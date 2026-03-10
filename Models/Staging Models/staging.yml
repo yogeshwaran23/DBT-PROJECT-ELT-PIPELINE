@@ -1,0 +1,29 @@
+version: 3
+
+models:
+  - name: customer_staging
+    columns:
+      - name: customer_id
+        description: Primary key of customer
+        tests:
+          - not_null
+          - unique
+  - name: products_staging
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+  - name: order_items_stag
+    columns:
+      - name: ORDER_ITEM_ID
+        tests:
+          - unique
+          - not_null
+  - name: orders_staging
+    columns:
+      - name: ORDER_ID
+        tests:
+          - unique
+          - not_null
+          
